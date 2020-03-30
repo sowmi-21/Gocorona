@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GoCorona</string>
+    <string name="Button">Button</string>
+    <string name="Symptoms">b1</string>
+    <string name="go_corona">GO CORONA</string>
+    <string name="click">click here</string>
+    <string name="panic">Stay at home and separate yourself from others. Call the nearest medical center through our app and seek advice from experts. Don\'t just turn up as this could potentially spread the virus if you have it.</string>
+    <string name="panicbtn">Relax..Just Click the below button to get help</string>
+    <string name="fcoro">WHAT TO DO IF I HAVE SYMPTOMS OF CORONA???</string>
+    <string name="sym">What are the symptoms</string>
+    <string name="prev">How can I prevent?</string>
+    <string name="ifhave">What to do if I have the symptoms?</string>
+    <string name="sympT">SYMPTOMS</string>
+    <string name="helpline">FOR HELPLINE</string>
+    <string name="don_t_panic">Don\'t panic</string>
+    <string name="click_here">Click here</string>
+    <string name="gethelpcl">Click the below button to get help</string>
+    <string name="next">What next</string>
+    <string name="symptoms">Symptom</string>
+    <string name="medi">If you have any of the above symptoms do press the below help button for immediate medical assistance</string>
+    <string name="assist">If you have any of the above symptoms, then click the below help button to seek medical assistance</string>
+    <string name="precautions">precautions</string>
+    <string name="help">Help</string>
+    <string name="what_to_do_if_i_have_the_symptoms">What to do if I have the symptoms?</string>
+    <string name="helpline_numbers">Helpline numbers</string>
+    <string name="instructions">Instructions</string>
+    <string name="corinstr">What to do If I have symptoms of corona</string>
+    <string name="click_here_for_instructions">click here for Instructions</string>
+</resources>
